@@ -3,7 +3,7 @@
 ### 介绍
 **个人简历-纯静态页面，无后台**
 
-> **预览 ➡️ [https://joeybling.github.io/resume/](https://luyongcheng.github.io)**
+> **预览 ➡️ [https://luyongcheng.top](https://luyongcheng.top)**
 
 <!--[![試毅-思伟的个人简历](./resume_mini.png "試毅-思伟的个人简历")](https://joeybling.github.io/resume/ "試毅-思伟的个人简历")-->
 <!---->
